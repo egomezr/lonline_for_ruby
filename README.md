@@ -23,7 +23,7 @@ For further information about Dynamicloud visit its site [Dynamicloud](http://ww
 #Levels
 Lonline provides 6 levels of logging, check out the below table to understand how these levels are activated according the level of logging in your program:
 
-| Level | Activated levels | Description |
+| Level | Activated levels | Description (From the great Log4j library) |
 | --- | --- | --- |
 | `fatal` | Fatal | Designates very severe error events that will presumably lead the application to abort.|
 | `error` | Fatal, Error | Designates error events that might still allow the application to continue running.|
