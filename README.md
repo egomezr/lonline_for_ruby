@@ -1,2 +1,3 @@
-# lonline
-Lonline allows to log your program into the cloud to avoid server access and disk space usage.
+# Lonline for Ruby
+Lonline allows you to log your program's execution into the cloud to avoid server access and disk space usage.
+
