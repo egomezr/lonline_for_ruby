@@ -13,12 +13,13 @@ Gem::Specification.new do |spec|
   spec.summary = %q{This gem allows you to log into the cloud using Dynamicloud.}
   spec.description = %q{
     You will be able to execute the following operations:
-    lonline.log.trace()
-    lonline.log.debug()
-    lonline.log.info()
-    lonline.log.warn()
-    lonline.log.error()
-    lonline.log.fatal()
+    lonline.log.trace() -
+    lonline.log.debug() -
+    lonline.log.info() -
+    lonline.log.warn() -
+    lonline.log.error() -
+    lonline.log.fatal() - Additionally, Lonline provides methods to get report about your logs.
+
   }
   spec.homepage = 'https://rubygems.org/gems/lonline'
   spec.license = 'MIT'

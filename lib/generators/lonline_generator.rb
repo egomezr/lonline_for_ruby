@@ -34,7 +34,7 @@ Lonline::SETUP.logger = Rails.logger"
   # Send the backtrace (the ordered method calls) of the log.  If you want to avoid this set to false
   backtrace: true
   # This tag indicates the level of lonline
-  # The following table is an explanation of levels in Lonline (Descriptions from Log4j documentation):
+  # The following table is an explanation of levels in Lonline (Descriptions from the great Log4j library):
   # ------------------------------------------------------------------------------------------------------------
   # | Level      | Activated levels           | Description                                                    |
   # ------------------------------------------------------------------------------------------------------------
@@ -82,7 +82,7 @@ production:
   # Send the backtrace of the log.  If you want to avoid this set to false
   backtrace: true
   # This tag indicates the level of lonline
-  # The following table is an explanation of levels in Lonline (Descriptions from Log4j documentation):
+  # The following table is an explanation of levels in Lonline (Descriptions from the great Log4j library):
   # ------------------------------------------------------------------------------------------------------------
   # | Level      | Activated levels           | Description                                                    |
   # ------------------------------------------------------------------------------------------------------------
