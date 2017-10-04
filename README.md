@@ -288,4 +288,3 @@ count = Lonline::Report.count(:fatal, from, Time.now.utc)
 puts "Count = #{count}"
 ```
 
-For further information and support about lonline, contact us at [Contact](https://www.dynamicloud.org/contact "Dynamicloud contact")
